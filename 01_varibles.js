@@ -1,33 +1,23 @@
-const accountId = 1444553
-let accountEmail = "atulkumargiri.com"
-var accountPassword ="12345"
-accountCity = "Ballia"
-// accountId  = 2 // not allowed 
+const accountId = 144553
+let accountEmail = "hitesh@google.com"
+var accountPassword = "12345"
+accountCity = "Jaipur"
+let accountState;
+
+// accountId = 2 // not allowed
 
 
-var fullName = "Arun";
+accountEmail = "hc@hc.com"
+accountPassword = "21212121"
+accountCity = "Bengaluru"
 
-// how to name variables
+console.log(accountId);
 
-// fullName
-// full-name
-// full_name
-// FullName
+/*
+Prefer not to use var
+because of issue in block scope and functional scope
+*/
 
-var courseName = "React JS Bootcamp";
 
-var isLoggedIn = false;
-
-var loggedCount = 34;
-
-// console.log(loggedCount);
-// console.log("loggedCount");
-
-var paymentMode;
-
-paymentMode = "Credit Card";
-console.log(paymentMode);
-
-// var if = 23;
-
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
