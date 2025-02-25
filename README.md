@@ -1,2 +1,2 @@
-Java new note all notes
+Java new note all note
 
