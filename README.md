@@ -1,3 +1,3 @@
 #Java new note all note
-con
+#console.log("Hello Duniya")
 
