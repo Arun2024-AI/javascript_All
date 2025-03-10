@@ -8,8 +8,8 @@ if ( temperature === 40 ){
     console.log("temperature is greater than 50");
 }
 
-console.log("Execute");
-<, >, <=, >=, ==, !=, ===, !==
+// console.log("Execute");
+// <, >, <=, >=, ==, !=, ===, !==
 
 // const score = 200
 
