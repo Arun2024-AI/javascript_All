@@ -9,14 +9,14 @@ const user = {
 
 }
 
-user.welcomeMessage()
-user.username = "sam"
-user.welcomeMessage()
+// user.welcomeMessage()
+// user.username = "sam"
+// user.welcomeMessage()
 
-console.log(this);
+// console.log(this);
 
-function chai(){
-    let username = "hitesh"
+// function chai(){
+//     let username = "hitesh"
 //     console.log(this.username);
 // }
 
